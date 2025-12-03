@@ -11,7 +11,7 @@ const Achievements = () => {
       <div className="container">
         <div className="section__card">
           <h2 className="section__title" data-reveal>Achievements</h2>
-          <div className="projects__grid" data-reveal>
+          <div className="cards__row" data-reveal>
             {items.map((item, idx) => (
               <article key={idx} className="project__card" aria-label={`Achievement ${idx+1}`}>
                 {item.cover ? (

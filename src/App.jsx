@@ -51,9 +51,7 @@ function App(){
           <section id="leadership" aria-label="Leadership Experience" data-reveal><Leadership/></section>
           <section id="achievements" aria-label="Achievements" data-reveal><Achievements/></section>
         </main>
-        <footer className="footer">
-          <p>© <span id="year">{new Date().getFullYear()}</span> • Crafted with React & Vite</p>
-        </footer>
+
       </div>
     </>
   );

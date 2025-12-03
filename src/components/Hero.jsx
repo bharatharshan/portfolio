@@ -40,10 +40,10 @@ const Hero = () => {
             </div>
           </div>
           <div className="hero__visual" aria-hidden="true" data-reveal>
-            <div className="hero__orb orb--accent" />
-            <div className="hero__orb orb--secondary" />
-            <div className="hero__profile">
-              <img className="profile__img" src="/assets/linkedin.jpeg" alt="Profile picture of Bharat Harshan" loading="lazy" />
+            <div className="section__card hero__profile-card">
+              <div className="hero__profile-ring">
+                <img className="profile__img" src="/assets/linkedin.jpeg" alt="Profile picture of Bharat Harshan" loading="lazy" />
+              </div>
             </div>
           </div>
         </div>

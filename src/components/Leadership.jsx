@@ -12,7 +12,7 @@ const Leadership = () => {
       <div className="container">
         <div className="section__card">
           <h2 className="section__title" data-reveal>Leadership</h2>
-          <div className="projects__grid" data-reveal>
+          <div className="cards__row" data-reveal>
             {roles.map((r, idx) => (
               <article key={idx} className="project__card" aria-label={`Leadership role ${idx+1}`}>
                 {r.cover ? (
