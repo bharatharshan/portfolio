@@ -1,0 +1,1 @@
+.reveal{opacity:0;transform:translateY(14px) scale(.98);transition:opacity .6s ease, transform .6s ease;will-change:opacity,transform}.reveal-visible{opacity:1;transform:none}@keyframes float{0%{transform:translateY(0)}50%{transform:translateY(-12px)}100%{transform:translateY(0)}}
