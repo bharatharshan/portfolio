@@ -28,13 +28,13 @@ const Hero = () => {
               </button>
             </div>
             <div className="hero__socials" aria-label="Social links">
-              <a className="hero__social-link" href="#" target="_blank" rel="noopener noreferrer">
+              <a className="hero__social-link" href="https://www.linkedin.com/in/bharat-harshan/" target="_blank" rel="noopener noreferrer">
                 <img className="hero__social-icon" src="/assets/Linkedin-logo-on-transparent-PNG-.png" alt="LinkedIn" width="28" height="28" />
               </a>
-              <a className="hero__social-link" href="#" target="_blank" rel="noopener noreferrer">
+              <a className="hero__social-link" href="https://github.com/bharatharshan" target="_blank" rel="noopener noreferrer">
                 <img className="hero__social-icon" src="/assets/GitHublogo.png" alt="GitHub" width="28" height="28" />
               </a>
-              <a className="hero__social-link" href="#" target="_blank" rel="noopener noreferrer">
+              <a className="hero__social-link" href="https://www.instagram.com/__bharat_harshan__/" target="_blank" rel="noopener noreferrer">
                 <img className="hero__social-icon" src="/assets/instagramlogo.jpg" alt="Instagram" width="28" height="28" />
               </a>
             </div>

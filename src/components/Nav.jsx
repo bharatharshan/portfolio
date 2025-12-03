@@ -91,6 +91,7 @@ const Nav = () => {
           <span>Achievements</span>
         </button>
       </nav>
+      {/* Social links removed */}
     </aside>
   );
 };
